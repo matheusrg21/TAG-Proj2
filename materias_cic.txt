@@ -1,0 +1,33 @@
+113034|Calculo 1|6|3|
+113468|Introducao aos Sistemas Computacionais|4|2|
+113450|Fundamentos Teoricos da Computacao|4|1|
+113476|Algoritmo e Programacao de Computadores|6|2|
+116726|Informatica e Sociedade|2|1|
+116351|Circuitos Digitais|6|2|
+116319|Estruturas de Dados|4|3|Algoritmo e Programacao de Computadores
+113042|Calculo 2|6|3|Calculo 1
+113093|Introducao a Algebra Linear|4|1|
+116394|Organizacao e Arquitetura de Computadores|4|3|Circuitos Digitais
+117889|Tecnicas de Programacao 1|4|1|Estruturas de Dados
+113107|Algebra 1|4|1|
+113417|Calculo Numerico|4|2|Calculo 2
+115045|Probabilidade e Estatistica|6|2|Calculo 1
+117366|Logica Computacional 1|4|1|
+117897|Tecnicas de Programacao 2|4|1|Tecnicas de Programacao 1
+116327|Organizacao de Arquivos|4|1|Estruturas de Dados-Probabilidade e Estatistica
+117901|Teoria e Aplicacao de Grafos|4|2|Estruturas de Dados
+116572|Redes de Computadores|4|1|Estruturas de Dados-Calculo 2-Probabilidade e Estatistica
+116343|Linguagem de Programacao|4|2|Estruturas de Dados
+117935|Programacao Concorrente|4|1|Tecnicas de Programacao 2-Organizacao e Arquitetura de Computadores
+116441|Engenharia de Software|4|1|Tecnicas de Programacao 1
+116378|Bancos de Dados|4|1|Organizacao de Arquivos
+116653|Introducao a Inteligencia Artificial|4|2|Estruturas de Dados
+116432|Software Basico|4|3|Estruturas de Dados-Organizacao e Arquitetura de Computadores
+117960|Fundamentos de Sistemas Operacionais|4|1|Programacao Concorrente
+116882|Automatos e Computablidade|6|3|Algebra 1
+116416|Sistemas de Informacao|4|1|Estruturas de Dados
+117943|Computacao Experimental|4|3|Estruturas de Dados-Probabilidade e Estatistica
+117536|Projeto de Analise de Algoritmo|4|2|Calculo 1-Estruturas de Dados
+117927|Seguranca Computacional|4|2|Redes de Computadores
+117951|Compiladores|4|3|Linguagem de Programacao-Software Basico-Automatos e Computablidade
+117919|Metodologia Cientifica|2|2|
