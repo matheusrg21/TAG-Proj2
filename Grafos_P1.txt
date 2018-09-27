@@ -1,71 +1,113 @@
-1-O que È um  grafo? 
-    Conjunto de vÈrtices e um conjunto de arestas. Onde arestas ligam 2 vÈrtices (podem ser iguais).
+1-O que √© um  grafo? 
+    Conjunto de v√©rtices e um conjunto de arestas. Onde arestas ligam 2 v√©rtices (podem ser iguais).
 
-2-O que s„o arestas paralelas?
-    S„o arestas que possuem os mesmos vÈrtices terminais.
+2-O que s√£o arestas paralelas?
+    S√£o arestas que possuem os mesmos v√©rtices terminais.
 
-3-O que È um laÁo?
-    … uma aresta que liga um vÈrtice a ele mesmo.
+3-O que √© um la√ßo?
+    √â uma aresta que liga um v√©rtice a ele mesmo.
 
-4-O que È um grafo simples?
-    … um grafo que n„o possui arestas paralelas e nem laÁos.
+4-O que √© um grafo simples?
+    √â um grafo que n√£o possui arestas paralelas e nem la√ßos.
 
-5-O que È um grafo vazio?
-    … um grafo sem arestas.
+5-O que √© um grafo vazio?
+    √â um grafo sem arestas.
 
-6-O que È um grafo nulo?
-    … um grafo sem vÈrtices.
+6-O que √© um grafo nulo?
+    √â um grafo sem v√©rtices.
 
-7-O que s„o arestas adjacentes?
-    S„o arestas que compartilham o mesmo vÈrtice.
+7-O que s√£o arestas adjacentes?
+    S√£o arestas que compartilham o mesmo v√©rtice.
 
-8-O que s„o vÈrtices adjacentes?
-    S„o vÈrtices que compartilham a mesma aresta.
+8-O que s√£o v√©rtices adjacentes?
+    S√£o v√©rtices que compartilham a mesma aresta.
 
-9-O que È o grau de um vÈrtice?
-    … o n˙mero de arestas que o vÈrtice È terminal.
+9-O que √© o grau de um v√©rtice?
+    √â o n√∫mero de arestas que o v√©rtice √© terminal.
 
 10-
 
-11- O que È um grafo regular?
-    … um grafo em que todos os vÈrtices possuem o mesmo grau.
+11- O que √© um grafo regular?
+    √â um grafo em que todos os v√©rtices possuem o mesmo grau.
 
-12- Em qualquer grafo, a soma de todos os graus dos vÈrtices È igual a duas vezes o n˙mero de elos(arestas).
+12- Em qualquer grafo, a soma de todos os graus dos v√©rtices √© igual a duas vezes o n√∫mero de elos(arestas).
 
-13- Em qualquer grafo, a soma de todos os graus de vÈrtices È um n˙mero par.
+13- Em qualquer grafo, a soma de todos os graus de v√©rtices √© um n√∫mero par.
 
-14- Em qualquer grafo, o n˙mero de vÈrtices de grau Ìmpar È par. 
+14- Em qualquer grafo, o n√∫mero de v√©rtices de grau √≠mpar √© par. 
 
-15- Se G È um   grafo que possui n vÈrtices e È regular de grau r, ent„o G tem exatamente (n*r)/2.
+15- Se G √© um   grafo que possui n v√©rtices e √© regular de grau r, ent√£o G tem exatamente (n*r)/2.
 
-16- O que È um grafo completo?
-    … um grafo simples (sem arestas paralelas e sem laÁos) que contÈm todos os vÈrtices conectados entre si. (Kn)
+16- O que √© um grafo completo?
+    √â um grafo simples (sem arestas paralelas e sem la√ßos) que cont√©m todos os v√©rtices conectados entre si. (Kn)
 
-17- Todo grafo È subgrafo de si mesmo.
+17- Todo grafo √© subgrafo de si mesmo.
 
-18- O que È a reduÁ„o por Arestas?
-    … um subgrafo obtido a partir da remoÁ„o de arestas. Caso o vÈrtice fique desconexo È necess·rio removÍ-lo tambÈm.
+18- O que √© a redu√ß√£o por Arestas?
+    √â um subgrafo obtido a partir da remo√ß√£o de arestas. Caso o v√©rtice fique desconexo √© necess√°rio remov√™-lo tamb√©m.
 
-19- O que È a reduÁ„o por vÈrtices?
-    … um subgrafo obtido a partir da remoÁ„o de vÈrtices e suas respectibas arestas.
+19- O que √© a redu√ß√£o por v√©rtices?
+    √â um subgrafo obtido a partir da remo√ß√£o de v√©rtices e suas respectibas arestas.
 
-20- O que È um subgrafo induzido?
-    … um subgrafo onde suas arestas est„o contidas no grafo e tem as duas extremidades no subgrafo.
+20- O que √© um subgrafo induzido?
+    √â um subgrafo onde suas arestas est√£o contidas no grafo e tem as duas extremidades no subgrafo.
 
 21- Discorra sobre o isomorfismo entre grafos.
-    Dois grafos s„o ditos isomorfos quando se pode obter o outro apenas renomeando arestas e vÈrtices.
+    Dois grafos s√£o ditos isomorfos quando se pode obter o outro apenas renomeando arestas e v√©rtices.
 
-22- O que s„o vÈrtices incidentes?
-    Se A e B s„o conectados pela aresta K, diz-se que A e B s„o incidentes com K e K incidentes com A e B.
+22- O que s√£o v√©rtices incidentes?
+    Se A e B s√£o conectados pela aresta K, diz-se que A e B s√£o incidentes com K e K incidentes com A e B.
 
 23- Como representar a estrutura de um grafo?
-    Matriz de adjacÍncia: involve a incidÍncia de vÈrtices e arestas.
-    Listas de adjacÍncia: as listas representam um vÈrtice e apontam para seus respectivos vÈrtices adjacentes.
+    Matriz de adjac√™ncia: involve a incid√™ncia de v√©rtices e arestas.
+    Listas de adjac√™ncia: as listas representam um v√©rtice e apontam para seus respectivos v√©rtices adjacentes.
 
-24- Quando usar matriz de adjcÍncia?
-    … recomendada para grafos densos. … ˙til para identificar conexıes. O tempo de acesso a um elemento especÌfico independe do n˙mero de vÈrtices e arestas. Ler, examinar e salvar a matriz È muito custoso (n˙mero de vÈrtices ao quadrado).
+24- Quando usar matriz de adjc√™ncia?
+    √â recomendada para grafos densos. √â √∫til para identificar conex√µes. O tempo de acesso a um elemento espec√≠fico independe do n√∫mero de v√©rtices e arestas. Ler, examinar e salvar a matriz √© muito custoso (n√∫mero de v√©rtices ao quadrado).
 
-25- Quando usar listas de adjacÍncia?
-    … recomendada para grafos esparsos. … compacta e mais utilizada. Determinar se uma conex„o existe È mais custoso (depende do n˙mero de vÈrtices).
+25- Quando usar listas de adjac√™ncia?
+    √â recomendada para grafos esparsos. √â compacta e mais utilizada. Determinar se uma conex√£o existe √© mais custoso (depende do n√∫mero de v√©rtices).
 
 26-
+
+27- O que √© um passeio?
+    Um passeio de comprimento K √© a sucess√£o de k arestas de um v√©rtices a outro. Pode repetir v√©rtices.
+
+28- O que √© uma trilha?
+    √â um passeio em que todas as arestas s√£o diferentes. Os v√©rtices podem se repetir.
+
+29- O que √© um caminho?
+    √â um passeio em que todas as arestas e v√©rtices s√£o diferentes.
+
+30- O que √© um cliclo?
+    √â quando todas as arestas e v√©rtices de um passeio fechado s√£o diferentes.
+
+31- O que √© um grafo conectado? E um desconectado?
+    Um grafo conectado √© quando √© poss√≠vel alcan√ßar qualquer v√©rtice. Caso contr√°rio √© desconectado.
+
+32- Discorra sobre a Busca em Profudidade em grafos.
+    √â um m√©todo de busca em grafos que percorre o grafo visitanto os adjacentes do v√©rtice ativo.
+Usando uma pilha (Stack)
+1. DFS(G,v)   ( v √© o v√©rtice onde a busca inicia )
+2.      Stack S := {};   ( inicie com uma pilha vazia )
+3.      for cada v√©rtice u, set visitado[u] := false;
+4.      push S, v;
+5.      while (S n√£o for vazia) do
+6.         u := pop S;
+7.         if (not visitado[u]) then
+8.            visitado[u] := true;
+9.            for cada vizinho n√£o visitado w de u
+10.               push S, w;
+11.       end if
+12.    end while
+13. END DFS()
+
+33- O que √© um clique?
+    √â um subgrafo induzido completo.
+
+34- O que √© um clique m√°ximo? e maximal?
+    O clique m√°ximo √© o maior clique poss√≠vel de um grafo (define o n√∫mero do clique do grado).
+    O clique maximal √© um clique em que n√£o se pode aumento adicionando um v√©rtice adjacente (n√£o √© subconjunto de clique maior).
+
+35- Como encontrar todos os cliques de um grafo?
+    √â um problema NP-completo (N√£o polinomial).
