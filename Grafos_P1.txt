@@ -1,0 +1,71 @@
+1-O que é um  grafo? 
+    Conjunto de vértices e um conjunto de arestas. Onde arestas ligam 2 vértices (podem ser iguais).
+
+2-O que são arestas paralelas?
+    São arestas que possuem os mesmos vértices terminais.
+
+3-O que é um laço?
+    É uma aresta que liga um vértice a ele mesmo.
+
+4-O que é um grafo simples?
+    É um grafo que não possui arestas paralelas e nem laços.
+
+5-O que é um grafo vazio?
+    É um grafo sem arestas.
+
+6-O que é um grafo nulo?
+    É um grafo sem vértices.
+
+7-O que são arestas adjacentes?
+    São arestas que compartilham o mesmo vértice.
+
+8-O que são vértices adjacentes?
+    São vértices que compartilham a mesma aresta.
+
+9-O que é o grau de um vértice?
+    É o número de arestas que o vértice é terminal.
+
+10-
+
+11- O que é um grafo regular?
+    É um grafo em que todos os vértices possuem o mesmo grau.
+
+12- Em qualquer grafo, a soma de todos os graus dos vértices é igual a duas vezes o número de elos(arestas).
+
+13- Em qualquer grafo, a soma de todos os graus de vértices é um número par.
+
+14- Em qualquer grafo, o número de vértices de grau ímpar é par. 
+
+15- Se G é um   grafo que possui n vértices e é regular de grau r, então G tem exatamente (n*r)/2.
+
+16- O que é um grafo completo?
+    É um grafo simples (sem arestas paralelas e sem laços) que contém todos os vértices conectados entre si. (Kn)
+
+17- Todo grafo é subgrafo de si mesmo.
+
+18- O que é a redução por Arestas?
+    É um subgrafo obtido a partir da remoção de arestas. Caso o vértice fique desconexo é necessário removê-lo também.
+
+19- O que é a redução por vértices?
+    É um subgrafo obtido a partir da remoção de vértices e suas respectibas arestas.
+
+20- O que é um subgrafo induzido?
+    É um subgrafo onde suas arestas estão contidas no grafo e tem as duas extremidades no subgrafo.
+
+21- Discorra sobre o isomorfismo entre grafos.
+    Dois grafos são ditos isomorfos quando se pode obter o outro apenas renomeando arestas e vértices.
+
+22- O que são vértices incidentes?
+    Se A e B são conectados pela aresta K, diz-se que A e B são incidentes com K e K incidentes com A e B.
+
+23- Como representar a estrutura de um grafo?
+    Matriz de adjacência: involve a incidência de vértices e arestas.
+    Listas de adjacência: as listas representam um vértice e apontam para seus respectivos vértices adjacentes.
+
+24- Quando usar matriz de adjcência?
+    É recomendada para grafos densos. É útil para identificar conexões. O tempo de acesso a um elemento específico independe do número de vértices e arestas. Ler, examinar e salvar a matriz é muito custoso (número de vértices ao quadrado).
+
+25- Quando usar listas de adjacência?
+    É recomendada para grafos esparsos. É compacta e mais utilizada. Determinar se uma conexão existe é mais custoso (depende do número de vértices).
+
+26-
