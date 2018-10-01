@@ -111,3 +111,6 @@ Usando uma pilha (Stack)
 
 35- Como encontrar todos os cliques de um grafo?
     É um problema NP-completo (Não polinomial).
+
+36- O que é a Busca em largura (BFS) em grafos?
+    É visitado todos os adjacentes ao vértice atual e assim sucessivamente. Basicamente expande a fronteira entre vértices descobertos uniformemente através da largura da fronteira. O algoritmo percorre primeiro os mais próximos.
