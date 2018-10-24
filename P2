@@ -1,0 +1,7 @@
+1- Árvore
+   É um grafo acíclido conectado
+   Teorema: em uma árvore, quaisquer dois vértices são conectados por um caminho único.
+   Teorema: se G é uma árvore, então o #arestas = #vértices - 1.
+  
+2- Árvores geradoras
+   
