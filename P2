@@ -4,4 +4,5 @@
    Teorema: se G é uma árvore, então o #arestas = #vértices - 1.
   
 2- Árvores geradoras
+   Seja n o número de vértices de um grafo G, árvore geradora é a coleção de n-1 arestas que conectam todos os n vértices de G.
    
