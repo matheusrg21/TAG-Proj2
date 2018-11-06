@@ -6,3 +6,13 @@
 2- Árvores geradoras
    Seja n o número de vértices de um grafo G, árvore geradora é a coleção de n-1 arestas que conectam todos os n vértices de G.
    
+3- Árvores geradoras mínimas
+   É a árvore geradora que possui menor soma de pesos ou menor quantidade de arestas.
+   
+4- Algoritmo de Prim
+   Passo 1: ordena as arestas conforme o peso.
+   Passo 2: para cada aresta adicionada, verificar se pode ser adicionada (se novo vértice ainda não está na árvore ou não gera ciclo).
+   
+5- Algoritmo e Kruskal
+   Passo 1: ordena as arestas conforme o peso.
+   Passo 2: para cada aresta, verifica se pode ser adicionada à árvore em construção.
